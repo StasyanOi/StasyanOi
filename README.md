@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm software developer with 4 years of experience building applications using Java.
+I'm a software developer with 4 years of experience building applications using Java.
 Lately, I've been specializing in the development of financial and banking applications.
 My passion for coding drives me to continuously improve my skills and stay up to date with the latest technologies.
 
