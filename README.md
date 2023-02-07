@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**StasyanOi/StasyanOi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm software developer with 4 years of experience building applications using Java.
+Lately, I've been specializing in the development of financial and banking applications.
+My passion for coding drives me to continuously improve my skills and stay up to date with the latest technologies.
 
-Here are some ideas to get you started:
+## What I do
+- Develop applications that solve real-world problems.
+- Write clean, maintainable, and well-documented code.
+- Collaborate with cross-functional teams to deliver projects on time and within budget.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Java
+- SQL
+- Netty 4
+- Spring Framework
+- Kubernetes
+- Docker
+
+I'm always looking for new and exciting opportunities to work on!
+
+
+
+
